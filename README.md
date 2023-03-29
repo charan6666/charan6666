@@ -8,7 +8,7 @@
 
 ~👀 I’m interested in Web Development, Cloud Computing , Artificial Intelligence & Cyber Security.
 
-~🥅 2023 Goals: Contribute some Open Source Projects.
+~🥅 2024 Goals: Contribute some Open Source Projects.
 
 
 
